@@ -1,0 +1,9 @@
+.user-input {
+  display: block;
+}
+form button {
+  color: white;
+  background-color: rgb(107, 5, 107);
+  width: 5rem;
+  height: 2rem;
+}
