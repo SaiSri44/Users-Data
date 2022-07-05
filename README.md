@@ -32,4 +32,13 @@ This application is built to revise the topics learnt in the ReacJs Course.
 
 9.State up.
 
-![Intial]
+**Project Screenshots:**
+
+<img src = "Project Screenshots/Intial UI.png" style = "height : 400px; width : 600px"/>
+
+<img src = "Project Screenshots/Working.png" style = "height : 400px; width : 600px"/>
+
+<img src = "Project Screenshots/Inalid_name.png" style = "height : 400px; width : 600px"/>
+
+<img src = "Project Screenshots/Invalid_age.png" style = "height : 400px; width : 600px"/>
+
